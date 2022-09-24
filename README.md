@@ -5,7 +5,9 @@
 ## Prerequisites
 
 - Go version 1.19
--
+- Docker
+- [Gomock](https://github.com/golang/mock)
+- [Golanci-lint](https://golangci-lint.run/usage/install/)
 
 ## Usage
 
