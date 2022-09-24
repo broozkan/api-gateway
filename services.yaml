@@ -1,0 +1,3 @@
+order-api:
+  host: "http://order-api.order-api.svc.cluster.local"
+  name: "order-api"

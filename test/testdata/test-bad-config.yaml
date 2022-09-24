@@ -1,0 +1,5 @@
+appname:
+  test-app-name: ads
+
+server:
+  port: 1111
